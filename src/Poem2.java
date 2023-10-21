@@ -1,11 +1,12 @@
-/**Class: Circle
+/**Class: Poem2
  * @author Jah St. Aimee
  * @version 1.0
  * Course: ITEC 2150 Fall 2023
- * Written: August 21, 2023
+ * Written: October 20, 2023
  *
- * This class – returns the area of the circle.
- * By creating an instance of the class and calculate its area.
+ * This class – this program creates three different objects of type Poem.
+ * The program shall then open a text file named poems.txt
+ * for writing and write the information about each poem to the text file.
  */
 import java.io.BufferedReader;
 import java.io.FileReader;

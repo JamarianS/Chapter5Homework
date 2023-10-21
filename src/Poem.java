@@ -1,11 +1,12 @@
-/**Class: Circle
+/**Class: Poem
  * @author Jah St. Aimee
  * @version 1.0
  * Course: ITEC 2150 Fall 2023
- * Written: August 21, 2023
+ * Written: October 20, 2023
  *
- * This class – returns the area of the circle.
- * By creating an instance of the class and calculate its area.
+ * This class – program to read in the 10 numbers from the file Book1.csv
+ * The program should then print the sum all the numbers,
+ * find the lowest number, find the highest number, and computer the average
  */
 import java.io.FileWriter;
 import java.io.IOException;
